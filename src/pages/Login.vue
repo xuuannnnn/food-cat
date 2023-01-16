@@ -46,7 +46,7 @@
             <div class="btn-box">
                 <button>OK!</button>
                 <!-- 绑定点击事件 -->
-                <p onclick="mySwitch()">No account? Sign up</p>
+                <p onclick="mySwitch()">No account? Sign up!</p>
             </div>
         </div>
        </div>
