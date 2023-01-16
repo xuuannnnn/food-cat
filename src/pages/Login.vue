@@ -61,7 +61,6 @@
                     // 获取到滑动盒子的dom元素并修改它移动的位置
                     $(".pre-box").css("transform","translateX(100%)")
             
-                    
                 }
                 else {
                     $(".pre-box").css("transform","translateX(0%)")
